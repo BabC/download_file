@@ -3,9 +3,9 @@ Download a simple file with a nodeJS server, through a basic auth. Set everythin
 
 # Commands
 ## Local
-$ npm install
-$ npm start
+$ npm install<br />
+$ npm start<br />
 
 ## Docker
-$ docker build -t download .
-$ docker run -p 3000:3000 -d download
+$ docker build -t download .<br />
+$ docker run -p 3000:3000 -d download<br />
